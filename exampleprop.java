@@ -25,6 +25,7 @@ Set<Map.Entry<Object,Object>>keys=prop.entrySet();
 System.out.println(keys);
 Collection<Object>val=prop.values();
 System.out.println(val);
+System.out.println("hell");
 fos.close();
 
 
